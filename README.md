@@ -1,4 +1,3 @@
-# healthcare-operations-sql-project
 # Healthcare Data Quality & Operations Monitoring SQL Project
 
 ## Project Overview
