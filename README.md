@@ -79,3 +79,14 @@ This project is intended for portfolio and learning purposes. No real patient da
 This project demonstrates practical SQL skills in data quality validation, healthcare operations monitoring, KPI reporting, provider analysis, and time-series analysis.
 
 This is an independent portfolio project and is not an official project of any healthcare company.
+## SQL Project Files
+
+### Task 01 & 02 — Data Quality Analysis
+[View SQL Queries](Task%2001-02%20Data%20Quality%20Analysis.sql)
+
+Includes database validation, duplicate detection, missing data checks, and patient completeness analysis.
+
+### Task 03 — Appointment Operations Analysis
+[View SQL Queries](Task%2003%20Appointment%20Data%20Exploration.sql)
+
+Includes appointment KPIs, provider performance, monthly trends, and month-over-month growth analysis.
