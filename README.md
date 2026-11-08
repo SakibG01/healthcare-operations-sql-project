@@ -323,7 +323,7 @@ Includes:
 ### Task 05 — Claim Status History & Processing Analysis
 
 [View SQL Queries]([Task_05_Claim_Status_History_Processing_Analysis.sql](https://github.com/SakibG01/healthcare-operations-sql-project/blob/main/Task%2005%20%E2%80%94%20Claim%20Status%20History%20%26%20Processing%20Analysis.sql))
-
+[View SQL Queries](https://github.com/SakibG01/healthcare-operations-sql-project/blob/main/Task%2005%20%E2%80%94%20Claim%20Status%20History%20%26%20Processing%20Analysis.sql)
 Includes:
 
 - Claim status-history record validation.
