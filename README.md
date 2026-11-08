@@ -287,7 +287,7 @@ This is an independent portfolio project and is not an official project of any h
 
 ### Task 01 & 02 — Patient Data Quality Analysis
 
-[View SQL Queries](Task%2001-02%20Data%20Quality%20Analysis.sql)
+[View SQL Queries]([Task%2001-02%20Data%20Quality%20Analysis.sql](https://github.com/SakibG01/healthcare-operations-sql-project/blob/main/Task%2001-02%20Data%20Quality%20Analysis.sql))
 
 Includes database validation, duplicate detection, missing data checks, and patient completeness analysis.
 
@@ -295,7 +295,7 @@ Includes database validation, duplicate detection, missing data checks, and pati
 
 ### Task 03 — Appointment Operations Analysis
 
-[View SQL Queries](Task%2003%20Appointment%20Data%20Exploration.sql)
+[View SQL Queries]([Task%2003%20Appointment%20Data%20Exploration.sql](https://github.com/SakibG01/healthcare-operations-sql-project/blob/main/Task%2003%20Appointment%20Data%20Exploration.sql))
 
 Includes appointment KPIs, provider performance, monthly trends, and month-over-month growth analysis.
 
@@ -303,7 +303,7 @@ Includes appointment KPIs, provider performance, monthly trends, and month-over-
 
 ### Task 04 — Medical Claims Operations Analysis
 
-[View SQL Queries](Task%2004%20%E2%80%94%20Medical%20Claims%20Operations%20Analysis%281%29.sql)
+[View SQL Queries]([Task%2004%20%E2%80%94%20Medical%20Claims%20Operations%20Analysis%281%29.sql](https://github.com/SakibG01/healthcare-operations-sql-project/blob/main/Task%2004%20%E2%80%94%20Medical%20Claims%20Operations%20Analysis.sql))
 
 Includes:
 
@@ -322,7 +322,7 @@ Includes:
 
 ### Task 05 — Claim Status History & Processing Analysis
 
-[View SQL Queries](Task_05_Claim_Status_History_Processing_Analysis.sql)
+[View SQL Queries]([Task_05_Claim_Status_History_Processing_Analysis.sql](https://github.com/SakibG01/healthcare-operations-sql-project/blob/main/Task%2005%20%E2%80%94%20Claim%20Status%20History%20%26%20Processing%20Analysis.sql))
 
 Includes:
 
